@@ -1,0 +1,21 @@
+.input-title{
+    width: 30vw;
+    height: 4vh;
+}
+
+.btn{
+    height: 4.7vh;
+    width: 15vw;
+}
+.idk{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: calc(2vw);
+    width: 100%;
+}
+
+.text-area{
+    margin-top: 4vh;
+    min-width: 47vw;
+}

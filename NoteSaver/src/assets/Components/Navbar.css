@@ -1,0 +1,7 @@
+.nav-class{
+    padding: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: calc(2.5vw);
+}
